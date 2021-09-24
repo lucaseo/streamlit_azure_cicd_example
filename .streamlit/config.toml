@@ -87,7 +87,7 @@ port = 80
 
 # Enables support for Cross-Origin Request Sharing, for added security.
 # Default: true
-enableCORS = false
+enableCORS = true
 enableWebsocketCompression = false
 
 

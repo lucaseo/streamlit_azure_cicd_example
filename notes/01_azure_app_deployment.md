@@ -1,4 +1,4 @@
-
+# App deployment in Azure (ACR and App Services)
 
 
 ## 1. Install Azure Cli and login

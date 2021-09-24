@@ -41,6 +41,9 @@ def download_button(data, file_type):
 
 
 def main_page():
+
+    st.title('Hello World! This is a test')
+
     uploaded_file = st.file_uploader(label='Upload your Excel file here', type=['xlsx', 'csv'])
 
     if uploaded_file is not None:
